@@ -4,7 +4,7 @@
 + 🛰️ [Remote Sensing  Semantic Segmentation Virtual Lab](https://github.com/theElandor/CVCS)
 + 🔬 [Classification of microscopy images](https://github.com/theElandor/AIBIO_proj) using cross batch consistency learning;
 + 🦷 [Dental bracket installation points regression](https://github.com/theElandor/BracketPrediction) leveraging the [Pointcept](https://github.com/Pointcept/Pointcept) framework (*WIP*);
-+ 📉 A [gradient descent](https://github.com/theElandor/GradientDescent) implementation done from scratch with numpy;
++ 📉 [Gradient descent](https://github.com/theElandor/GradientDescent) implementation done from scratch with numpy;
 
 ### Puzzles
 + 🎁 [Advent of Code 2025](https://github.com/theElandor/aoc2025);
