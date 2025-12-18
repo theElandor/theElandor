@@ -12,6 +12,7 @@
 + 🌊 [Codyssi 2025](https://github.com/theElandor/codyssi2025);
 + 🦆 [Everybody Codes 2025](https://github.com/theElandor/ec2025) quests; 
 + 🦆 [Everybody Codes 2024](https://github.com/theElandor/Everybody-Codes) main event;
++ 🩴 [Flip Flop 2025](https://github.com/theElandor/flipflop2025);
 
 ### Other
 + ✉️ [Nodes](https://github.com/theElandor/Nodes), a Python framework to play with distributed algorithms;
