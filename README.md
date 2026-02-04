@@ -19,3 +19,4 @@
 + 🐜 A cool computational model for [Ant Sorting](https://github.com/theElandor/ant_sorting) written in Netlogo;
 + 👮🏻 [Z340](https://github.com/theElandor/Z340) solution in C with a [blogpost](https://theelandor.github.io/posts/zodiac/);
 + 🃏[PsimW](https://github.com/theElandor/Psimw), a mini 2D card engine to play MTG (*WIP*);
++ 📦 A small [DCT](https://github.com/theElandor/DCT)(Discrete Cosine Transform) educational implementation in C with no dependencies;
