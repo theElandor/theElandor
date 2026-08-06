@@ -1,6 +1,8 @@
 ## Projects ⚙️
 
 ### Deep Learning
++ 🦷 [A model for fast IOS segmentation and landmark prediction](https://github.com/AImageLab-zip/IOS-Landmarks)
++ 🦷 [A small model for automatic IOS orientation](https://github.com/AImageLab-zip/IOS-Normalizer)
 + 🛰️ [Remote Sensing  Semantic Segmentation Virtual Lab](https://github.com/theElandor/CVCS)
 + 🔬 [Classification of microscopy images](https://github.com/theElandor/AIBIO_proj) using cross batch consistency learning;
 + 📉 [Gradient descent](https://github.com/theElandor/GradientDescent) implementation done from scratch with numpy;
