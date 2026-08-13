@@ -21,3 +21,8 @@
 + 👮🏻 [Z340](https://github.com/theElandor/Z340) solution in C with a [blogpost](https://theelandor.github.io/posts/zodiac/);
 + 🃏[PsimW](https://github.com/theElandor/Psimw), a mini 2D card engine to play MTG (*WIP*);
 + 📦 A small [DCT](https://github.com/theElandor/DCT)(Discrete Cosine Transform) educational implementation in C with no dependencies;
+
+## Other Contributions 👥
+
++ 🩻 [L2L-Registration](https://github.com/AImageLab-zip/L2L-Registration), a landmark-guided IOS-CBCT registration pipeline;
++ 🌳 [Yggdrasill](https://github.com/AImageLab-zip/Yggdrasil), contributing to the back-end algorithms for dental data analysis; 
