@@ -25,4 +25,5 @@
 ## Other Contributions 👥
 
 + 🩻 [L2L-Registration](https://github.com/AImageLab-zip/L2L-Registration), a landmark-guided IOS-CBCT registration pipeline;
-+ 🌳 [Yggdrasill](https://github.com/AImageLab-zip/Yggdrasil), contributing to the back-end algorithms for dental data analysis; 
++ 🌳 [Yggdrasill](https://github.com/AImageLab-zip/Yggdrasil), contributing to the back-end algorithms for dental data analysis;
++ 📜 [Voynich NLP analysis](https://github.com/brianmg/voynich-nlp-analysis), visualizing embeddings and discussing;
