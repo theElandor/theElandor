@@ -11,8 +11,9 @@
 + 🎁 [Advent of Code 2025](https://github.com/theElandor/aoc2025);
 + 🎄 [Advent of Code 2024](https://github.com/theElandor/aoc2024);
 + 🌊 [Codyssi 2025](https://github.com/theElandor/codyssi2025);
-+ 🦆 [Everybody Codes 2025](https://github.com/theElandor/ec2025) quests; 
-+ 🦆 [Everybody Codes 2024](https://github.com/theElandor/Everybody-Codes) main event;
++ 🦆 [Everybody Codes 2026](https://github.com/theElandor/ec2025); 
++ 🦆 [Everybody Codes 2025](https://github.com/theElandor/ec2025); 
++ 🦆 [Everybody Codes 2024](https://github.com/theElandor/Everybody-Codes);
 + 🩴 [Flip Flop 2025](https://github.com/theElandor/flipflop2025);
 
 ### More Educational Projects
