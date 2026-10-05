@@ -15,6 +15,7 @@
 + 🦆 [Everybody Codes 2025](https://github.com/theElandor/ec2025); 
 + 🦆 [Everybody Codes 2024](https://github.com/theElandor/Everybody-Codes);
 + 🩴 [Flip Flop 2025](https://github.com/theElandor/flipflop2025);
++ 🍂 [Autumn Code Walks 2026](https://github.com/theElandor/acww2026);
 
 ### More Educational Projects
 + ✉️ [Nodes](https://github.com/theElandor/Nodes), a Python framework to play with distributed algorithms;
